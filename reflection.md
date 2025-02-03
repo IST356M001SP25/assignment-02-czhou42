@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I struggled a bit with the if statement. It's a bit confusing with what is the number in the "[]" stand for. For example, in item = data.split(" in ")[-1], -1 stands for the last character in "in", which is "n".
